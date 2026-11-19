@@ -122,7 +122,7 @@ I love incorporating my own ideas into code to give it some personal touch ♡
  
 ₊˚ ʚ ᴛʜᴀɴᴋꜱ ꜰᴏʀ ᴠɪꜱɪᴛɪɴɢ ɞ ˚₊
  
-<img src="cat.jpg" width="800" alt="extra picture"/>
+<img src="cat.jpg" width="1000" alt="extra picture"/>
  
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8BE8CB,50:888DA7,100:9C7A97&height=90§ion=footer&reversal=true" width="100%" alt="footer"/>
  
