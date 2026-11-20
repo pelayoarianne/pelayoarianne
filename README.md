@@ -89,8 +89,8 @@ I love incorporating my own ideas into code to give it some personal touch ♡
 ## ᛝ ᴍʏ ᴘʀᴏᴊᴇᴄᴛꜱ
  
 ### ⋆ ᴍɪᴅᴛᴇʀᴍꜱ
-#### ࣪ ִֶָ☾. [Lab Task 1](https://github.com/YOUR-USERNAME/midterm-lab-task-1) ・ *Two-dim Array*
-#### ࣪ ִֶָ☾. [Lab Task 2](https://github.com/YOUR-USERNAME/midterm-lab-task-2) ・ *Three-dim Array*
+#### ࣪ ִֶָ☾. [Lab Task 1](https://github.com/pelayoarianne/Programming-26/blob/main/Pelayo_LabTask1.pdf) ・ *Two-dim Array*
+#### ࣪ ִֶָ☾. [Lab Task 2](https://github.com/pelayoarianne/Programming-26/blob/main/Pelayo_LabTask2.pdf) ・ *Three-dim Array*
  
 <p align="center">‿̩͙⊱༒︎༻♱༺༒︎⊰‿̩͙</p>
  
